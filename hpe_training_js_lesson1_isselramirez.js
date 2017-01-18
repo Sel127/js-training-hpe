@@ -1,6 +1,6 @@
-/* Issel Ramirez
-This is HPE JavaScript training
-lesson 1 */
+/* This is HPE JavaScript training
+lesson 1
+Day 2 of practice */
 
 // printing a phrase
 console.log("You gotta live and learn, you gotta crash and burn, You gotta take some stances and take some chances You gotta laugh and love and take all life has to give You gotta live and learn so you can learn to live. Though I left home and I went to Carolina I then set off just to see what I could see I did some things that I was not really proud of And sometimes life just got the best of me");
