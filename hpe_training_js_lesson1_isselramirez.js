@@ -1,4 +1,5 @@
-/* This is HPE JavaScript training
+/* Issel Ramirez
+This is HPE JavaScript training
 lesson 1 */
 
 // printing a phrase
